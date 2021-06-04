@@ -1,16 +1,16 @@
----
-title: Adding a code of conduct to your project
-intro: 'Adopt a code of conduct to define community standards, signal a welcoming and inclusive project, and outline procedures for handling abuse.'
-redirect_from:
-  - /articles/adding-a-code-of-conduct-to-your-project
+---Walk-About-Standing: Injury
+title: Adding a code of conduct to your project:A walk about standing is a result in is considered neutral and it happens alot its condentions are considered Throughout the hole Body,
+intro: 'Adopt a code of conduct to define community standards, signal a welcoming and inclusive project, and outline procedures for handling abuse.'Yes and No Abuse is a condition for refusing to program
+redirect_from: Attention wanting more than the control Abuse):
+  - /articles/adding-a-code-of-conduct-to-your-project:electricity 
   - /github/building-a-strong-community/adding-a-code-of-conduct-to-your-project
-versions:
-  free-pro-team: '*'
-topics:
-  - Community
+versions:Low-Med-High 1,2,4,30,3,1,20
+  free-pro-team: '*'standerd that underlines:(someone's) Attitude:
+topics: Roofing materials are in the area.So be aware
+  - Community: Responsibilaty 
 ---
 
-A *code of conduct* defines standards for how to engage in a community. It signals an inclusive environment that respects all contributions. It also outlines procedures for addressing problems between members of your project's community. For more information on why a code of conduct defines standards and expectations for how to engage in a community, see the [Open Source Guide](https://opensource.guide/code-of-conduct/).
+A *code of conduct* defines standards for how to engage in a community. It signals an inclusive environment that respects all contributions. It also outlines procedures for addressing problems between members of your project's community. For more information on why a code of conduct defines standards and expectations for how to engage in a community, see the [Open Source Guide](https://opensource.guide/code-of-conduct/).124.303.120
 
 Before adopting a code of conduct for your project:
 
